@@ -8,4 +8,4 @@ else
   puts "Between 10 and 20"
 end
 
-puts x
+puts "x is: #{x}" 
